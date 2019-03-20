@@ -2,10 +2,10 @@ package itkp104;
 import java.net.*;
 import java.io.*;
 
-//ITKP104 ohjelmointityˆ harjoitus 1.2 kaikupalvelin
-//ottaa asiakkaalta vastaan viestin, lis‰‰ siihen oman nimens‰ ; merkill‰ erotettuna ja l‰hett‰‰ t‰m‰n takaisin asiakkaalle
+//ITKP104 ohjelmointity√∂ harjoitus 1.2 kaikupalvelin
+//ottaa asiakkaalta vastaan viestin, lis√§√§ siihen oman nimens√§ ; merkill√§ erotettuna ja l√§hett√§√§ t√§m√§n takaisin asiakkaalle
 
-public class echo {
+public class EchoServer {
 	public static void main(String[] args) throws IOException {
 		
 		int port = 80;
