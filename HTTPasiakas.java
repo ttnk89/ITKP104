@@ -2,8 +2,8 @@ package itkp104;
 import java.io.*;
 import java.net.*;
 
-//ITKP104 ohjelmointityö harjoitus 1.1 http asiakas
-//hakee example.com palvelimelta html sivun ja tulostaa sen näyttöön
+//ITKP104 ohjelmointityÃ¶ harjoitus 1.1 http asiakas
+//hakee example.com palvelimelta html sivun ja tulostaa sen nÃ¤yttÃ¶Ã¶n
 
 public class h1 {
 	
