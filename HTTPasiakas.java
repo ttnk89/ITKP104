@@ -5,7 +5,7 @@ import java.net.*;
 //ITKP104 ohjelmointityö harjoitus 1.1 http asiakas
 //hakee example.com palvelimelta html sivun ja tulostaa sen näyttöön
 
-public class h1 {
+public class HTTPasiakas {
 	
 	
 	
